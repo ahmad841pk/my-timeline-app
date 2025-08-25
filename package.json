@@ -1,0 +1,26 @@
+{
+  "name": "mytimeline-app",
+  "version": "1.0.0",
+  "description": "My smashing Nuxt.js project",
+  "author": "ahmad841pk",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@fullcalendar/core": "^6.1.19",
+    "@fullcalendar/daygrid": "^6.1.19",
+    "@fullcalendar/interaction": "^6.1.19",
+    "@fullcalendar/resource-timeline": "^6.1.19",
+    "@fullcalendar/timegrid": "^6.1.19",
+    "@fullcalendar/vue": "^6.1.19",
+    "@vue2vis/timeline": "^1.0.1-alpha.78",
+    "moment": "^2.30.1",
+    "nuxt": "^2.0.0",
+    "vis-data": "^6.6.1",
+    "vue-timeline-component": "^0.1.6"
+  }
+}
