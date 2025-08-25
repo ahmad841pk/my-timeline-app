@@ -1,6 +1,6 @@
-# mytimeline-app
+# Timeline-app
 
-> My smashing Nuxt.js project
+> TimeLine and Calendar in Nuxt.js project
 
 ## Build Setup
 
